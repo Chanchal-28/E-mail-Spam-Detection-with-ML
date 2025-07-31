@@ -23,17 +23,17 @@ This project is a **Spam Email Detector** built using **Python** and **Machine L
 ---
 
 ## 📊 Model Details
-Model Used: Multinomial Naive Bayes
+ Model Used: Multinomial Naive Bayes
 
-Vectorizer: CountVectorizer (Bag of Words)
+ Vectorizer: CountVectorizer (Bag of Words)
 
-Accuracy: ~97%
+ Accuracy: ~97%
 
-markdown
+ markdown
 
 ---
 
-Classification Report:
+## Classification Report:
                precision    recall  f1-score   support
 
            0       0.99      0.98      0.99       965
