@@ -22,15 +22,6 @@ This project is a **Spam Email Detector** built using **Python** and **Machine L
 
 ---
 
-## ⚙️ Installation & Running
-
-### Step 1: Clone the repo
-```bash
-git clone https://github.com/YOUR_USERNAME/Email-Spam-Detection.git
-cd Email-Spam-Detection
-
----
-
 ## 📊 Model Details
 Model Used: Multinomial Naive Bayes
 
