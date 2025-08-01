@@ -40,14 +40,14 @@ Confusion Matrix:
 
 Classification Report:
 
-                  precision   recall    f1-score   support
+                    precision   recall    f1-score   support
 
-            0        0.99      0.98      0.99       965
-            1        0.88      0.95      0.91       150
+            0          0.99      0.98      0.99       965
+            1          0.88      0.95      0.91       150
 
-      accuracy                           0.97      1115
-     macro avg       0.93      0.96      0.95      1115
-  weighted avg       0.98      0.97      0.98      1115
+       accuracy                             0.97      1115
+       macro avg        0.93      0.96      0.95      1115
+     weighted avg       0.98      0.97      0.98      1115
 
 🔍 Enter an email message to check if it's spam or not:
 
