@@ -57,3 +57,21 @@ Classification Report:
 
 ---
 
+## 💬 Example Spam Messages to Test :
+- Your account has been suspended due to suspicious activity. Click here to verify.
+- Congratulations! You’ve won a $500 Amazon gift card.
+- This is your final notice! Pay your bill now.
+
+---
+
+## ✨ Author
+ Chanchal Vishwakarma
+📧 vishwakarmachanchal107@gmail.com
+🔗 LinkedIn
+
+---
+
+## 📜 License
+This project is open source and free to use for learning purposes.
+
+---
