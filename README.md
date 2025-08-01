@@ -29,8 +29,6 @@ This project is a **Spam Email Detector** built using **Python** and **Machine L
 
  Accuracy: ~97%
 
- markdown
-
 ---
 
 ## Classification Report:
