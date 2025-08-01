@@ -50,6 +50,7 @@ Classification Report:
   weighted avg       0.98      0.97      0.98      1115
 
 🔍 Enter an email message to check if it's spam or not:
+
 👉 Your message: You won 2000 prize.
 
 📢 Prediction: Spam 🚫
