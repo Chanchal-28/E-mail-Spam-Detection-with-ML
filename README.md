@@ -66,8 +66,8 @@ Classification Report:
 
 ## ✨ Author
  Chanchal Vishwakarma
-📧 vishwakarmachanchal107@gmail.com
-🔗 LinkedIn
+ 📧 Vishwakarmachanchal107@gmail.com
+ 🔗 LinkedIn - www.linkedin.com/in/chanchal-vishwakarma
 
 ---
 
